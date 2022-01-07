@@ -1,7 +1,6 @@
 # 무인도에서 살아남기
 
-[![joon00's github stats](https://github-readme-stats.vercel.app/api?username=joon3812)](https://github.com/anuraghazra/github-readme-stats)
-	
+원본: https://github.com/zpetty33/GMStranded
   
 ## 설치 방법
 
