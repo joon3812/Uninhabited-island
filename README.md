@@ -1,4 +1,4 @@
-# Uninhabited-island
+# 무인도에서 살아남기
 
   <div align=center>
 
@@ -10,3 +10,6 @@
   </div>
   
   
+## 설치 방법
+
+파일의 addons, data, gamemodes, maps, particles, sound 폴더를 새로 생섷한 서버파일 안에 덮어씌웁니다
